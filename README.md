@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Anych
 - 👀 I’m interested in programming Python, Django.
-- 🌱 I’m currently learning javascript, docker.
+- 🌱 I’m currently learning javascript, docker and java.
 - 📫 E-mail: anuar123@mail.ru
